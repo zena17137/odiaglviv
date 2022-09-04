@@ -1,0 +1,14 @@
+@import url("header.css");
+@import url("footer.css");
+body {
+  font-family: "Work Sans", sans-serif;
+}
+
+img {
+  width: 200px;
+  margin: 10px;
+}
+
+.item {
+  display: inline-block;
+}

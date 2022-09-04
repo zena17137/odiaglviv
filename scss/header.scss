@@ -1,0 +1,17 @@
+.header {
+	user-select: none;
+	display: flex;
+	background-color: #7777ff;
+	width: 100%;
+	height: auto;
+	padding: 15px;
+	font-weight: 800;
+	justify-content: space-around;
+	color: #DDF;
+
+	&__mananger-login {
+	}
+	.logo__text {
+		font-size: 20px;
+	}
+}
